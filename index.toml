@@ -51,11 +51,6 @@ hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
 metafile = true
 
 [[files]]
-file = "mods/c2mef.pw.toml"
-hash = "92f000167f0c5665fa6f4a351889a58db7235ed8ebdb086a21a28a7024d347ad"
-metafile = true
-
-[[files]]
 file = "mods/canary.pw.toml"
 hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
 metafile = true
@@ -196,6 +191,11 @@ hash = "e47b4547b51bcd116aa7734ccd185a4edbcec4caf7ff80ef195ada4b727f5f15"
 metafile = true
 
 [[files]]
+file = "mods/glassential.pw.toml"
+hash = "1fc7843c63c6283bf057d21d0834e472623f827036afb23ad9f6ba7438bb23ae"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
@@ -287,7 +287,12 @@ metafile = true
 
 [[files]]
 file = "mods/mutil.pw.toml"
-hash = "6161befd655a400fb4a07d8702b62c3f24f828d5ee6336c3dcacd6bcaff78fc1"
+hash = "d60f6a6d46b66a76a6e3d185177a20cba42b83ba37f34db0fbe3c9babab7c837"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
 
 [[files]]
@@ -417,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "6d7d7e9056c82d805e0957f33d8dac048a3a193d91ca7e655e12d4bade9eb4d8"
+hash = "c7c0bf52ed0a44e8e71403a92da8503e298dc961c57671ae933f707ec807004d"
 metafile = true
 
 [[files]]
