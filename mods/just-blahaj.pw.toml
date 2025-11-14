@@ -1,0 +1,13 @@
+name = "Just Blahaj (Forge/NeoForge)"
+filename = "just_blahaj-3.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NcD25WXU/versions/n8UGoWY2/just_blahaj-3.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "d9b8fa1efadb4a8ceedf039c520ea8ef7069bc7184f4ac191f4af4ea57eb9ebf6408fdf6005363707bcab51d0b604289f728560bce6262182159074b8c060ade"
+
+[update]
+[update.modrinth]
+mod-id = "NcD25WXU"
+version = "n8UGoWY2"

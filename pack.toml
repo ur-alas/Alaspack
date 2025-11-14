@@ -1,0 +1,13 @@
+name = "Alaspack"
+author = "ur-alas"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3155ee3902ce4108153c1e4558e26b00c29940d9ccf158803eb2437e10dff828"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

@@ -1,0 +1,13 @@
+name = "Yttr"
+filename = "yttr-8.20.770.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZCLrWdGm/versions/ATOXHvlj/yttr-8.20.770.jar"
+hash-format = "sha512"
+hash = "643cf0ab5ceb7edcde34629657452fec187082fa5705e5fde831b402a724a8b98640a6463845467e4b1f1f21f2b3b62da63386edd96d40a67da7173a2eb3f438"
+
+[update]
+[update.modrinth]
+mod-id = "ZCLrWdGm"
+version = "ATOXHvlj"
