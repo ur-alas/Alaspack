@@ -5,6 +5,62 @@ file = "README.md"
 hash = "94d8535b1a69ed74841ba386b5675cc585794847a31674fa94dc26dcc47071d6"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/crushed_raw_yttrium.png"
+hash = "e7f346fdee6fb8e3f4b95bfd9124f255f4cc0455342e3a564fd1276037baea48"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "f8e348c98f341e71834b2954049179498c25403d2cae9edf8e4ccbf25c8370aa"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "3df12cec9b37d01efc6d04294444df18bb15d59bf69c8be7566839300e896498"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "76470005ebfc9e5beeb8e922c5b5516ae12132742b17a7d07ab5540299e08198"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "404745326708060ea5cb15021155871b3adc054cd76a10211b0a59dea522fd94"
+
+[[files]]
+file = "kubejs/startup_scripts/customItems.js"
+hash = "d8a9e141b2d7296248703a06baab536e193ecfb12838dc3b4fb6a08cde4d01cc"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
+
+[[files]]
 file = "mods/aether-enhanced-extinguishing.pw.toml"
 hash = "8e7f2282ce70b5a82bfe05304c30e71d6d3c26a29a75d6e1f31e85af8b86eb2e"
 metafile = true
@@ -202,16 +258,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
-metafile = true
-
-[[files]]
-file = "mods/immersive-infinity.pw.toml"
-hash = "c97a1b58b066eb9641cca9200194569b95e1e56eb434c73ada91f8052e2397ee"
-metafile = true
-
-[[files]]
-file = "mods/immersive-portals-neoforge.pw.toml"
-hash = "8c56189a235a058e9dfd8a1f6ffa449b1cfcdb957f77f07750ee203057025b9a"
 metafile = true
 
 [[files]]
