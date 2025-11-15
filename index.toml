@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "94d8535b1a69ed74841ba386b5675cc585794847a31674fa94dc26dcc47071d6"
+
+[[files]]
 file = "mods/aether-enhanced-extinguishing.pw.toml"
 hash = "8e7f2282ce70b5a82bfe05304c30e71d6d3c26a29a75d6e1f31e85af8b86eb2e"
 metafile = true
@@ -248,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "e57ad3496f6185470581e5a3ec1a6ceb09d8cf88ccde6305c5e464332d0fe867"
 metafile = true
 
 [[files]]
