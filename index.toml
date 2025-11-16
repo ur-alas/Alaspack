@@ -156,6 +156,11 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "408ce5619020064fc084d150d331edc654bbf1749bbd289e19f050a0df51f1c8"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
@@ -493,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "6f1d490b7da3e30a96bf49588f3e4a6989be3368478622959a3f1f4fbe54198b"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "c6fbd370928104ad11bfe108fd5b19ced046a9cc6d39499a9ef5399ac00b4063"
 metafile = true
 
 [[files]]

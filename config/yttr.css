@@ -106,36 +106,36 @@
 	 * If on, the Vorpal weapon enchantment can be obtained, which provides a level-dependent chance
 	 * to deal a very large of damage on strike.
 	 */
-	vorpal: on;
+	vorpal: off;
 	/*
 	 * If on, the Disjunction weapon enchantment can be obtained, which acts as an analogue to
 	 * Smite for Ender creatures.
 	 */
-	disjunction: on;
+	disjunction: off;
 	/*
 	 * If on, the Curse of Annihilation tool enchantment can be obtained, which completely destroys
 	 * any items that would have been dropped when breaking a block.
 	 */
-	annihilation: on;
+	annihilation: off;
 	/*
 	 * If on, the Curse of Shattering tool enchantment can be obtained, which "shatters" dropped
 	 * items via 1x1 crafting recipes, reverse-stonecutting, and more.
 	 */
-	shattering: on;
+	shattering: off;
 	/*
 	 * If on, the Springing coil enchantment can be obtained, increasing your jump height.
 	 */
-	springing: on;
+	springing: off;
 	/*
 	 * If on, the Stabilization coil enchantment can be obtained, removing the midair break speed
 	 * penalty.
 	 */
-	stabilization: on;
+	stabilization: off;
 	
 	/*
 	 * If on, Yttr's Curses can be obtained via regular enchanting.
 	 */
-	curses-in-table: on;
+	curses-in-table: off;
 }
 
 #worldgen {
@@ -152,7 +152,7 @@
 	 * 
 	 * In the future, Yttr progression will require Brookite; for now, disabling this is safe.
 	 */
-	brookite: on;
+	brookite: off;
 	
 	/*
 	 * Generate Squeeze Trees in the overworld, providing an easy source of sponges, Delicace, and
@@ -160,7 +160,7 @@
 	 * 
 	 * Squeeze Trees are not required for Yttr progression.
 	 */
-	squeeze-trees: on;
+	squeeze-trees: off;
 	/*
 	 * Generate the Wasteland biome.
 	 * 
@@ -173,7 +173,7 @@
 	 * to help tie together Yttr's lore, but it provides an easy source of infinite lava, may break
 	 * other mods that expect bedrock under the nether, and it's hard to get out of if you fall in.
 	 */
-	core-lava: on;
+	core-lava: off;
 	/*
 	 * Replace the Nether's ceiling and top bedrock with the "Scorched Summit", a new biome.
 	 * 
