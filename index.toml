@@ -5,28 +5,16 @@ file = "README.md"
 hash = "94d8535b1a69ed74841ba386b5675cc585794847a31674fa94dc26dcc47071d6"
 
 [[files]]
-file = "kubejs/README.txt"
-hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+file = "config/cumulus_menus-client.toml"
+hash = "ed577a5f879d797bac579fc0a558ba985b465bb492dab9411ead2939fe51ca73"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+file = "config/yttr.css"
+hash = "fb3f747fb8816a280b1c25a9a5ae14a2cea5baa59a7071edc4901bb150a471bc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/crushed_raw_yttrium.png"
 hash = "e7f346fdee6fb8e3f4b95bfd9124f255f4cc0455342e3a564fd1276037baea48"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
-
-[[files]]
-file = "kubejs/client_scripts/example.js"
-hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
-
-[[files]]
-file = "kubejs/client_scripts/jsconfig.json"
-hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -41,24 +29,12 @@ file = "kubejs/config/probe-settings.json"
 hash = "76470005ebfc9e5beeb8e922c5b5516ae12132742b17a7d07ab5540299e08198"
 
 [[files]]
-file = "kubejs/server_scripts/jsconfig.json"
-hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
-
-[[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "404745326708060ea5cb15021155871b3adc054cd76a10211b0a59dea522fd94"
+hash = "8e3065db9b632bc977e7a946c6e84b43ea1243b01837626fcf08e9372cd4865b"
 
 [[files]]
 file = "kubejs/startup_scripts/customItems.js"
-hash = "d8a9e141b2d7296248703a06baab536e193ecfb12838dc3b4fb6a08cde4d01cc"
-
-[[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
-
-[[files]]
-file = "kubejs/startup_scripts/jsconfig.json"
-hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
+hash = "0833922feb6ef57dfc9d6b79e891dbacc82449059fded03e9a1fcf87bc6b028b"
 
 [[files]]
 file = "mods/aether-enhanced-extinguishing.pw.toml"
