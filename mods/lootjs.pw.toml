@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/fJFETWDN/versions/RjTRvo4g/lootjs-forge-1.20.1-2.13.0.jar"
-hash-format = "sha512"
-hash = "c8652b1ccffccd66885dc9dc89490afe46f055c9d9ede2fef24e06978db5957815e6125974670263ab15c1d60d7106954f4d10aff48cd7f1e04277e351d1aa2c"
+hash-format = "sha256"
+hash = "71ce6c6694787f026ad2fa8e4d31b4ba2595e7fa319e373b963bd18c2f34334d"
 
 [update]
 [update.modrinth]

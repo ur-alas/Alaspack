@@ -3,8 +3,8 @@ filename = "aether-1.20.1-1.5.2-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fb6af601028e399016271bc166fd1de888680de7"
+hash-format = "sha256"
+hash = "5cb64ab1f27e78e8338fe67f9c766578904aad9bc1f8bcc90f306ea52aea3fc5"
 mode = "metadata:curseforge"
 
 [update]

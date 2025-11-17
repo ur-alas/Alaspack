@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NcD25WXU/versions/n8UGoWY2/just_blahaj-3.0.0-forge-1.20.1.jar"
-hash-format = "sha512"
-hash = "d9b8fa1efadb4a8ceedf039c520ea8ef7069bc7184f4ac191f4af4ea57eb9ebf6408fdf6005363707bcab51d0b604289f728560bce6262182159074b8c060ade"
+hash-format = "sha256"
+hash = "8e2d2bc20175bcf0585c66e985fcedef52e8c5c3685ccd12da099cba3aac551e"
 
 [update]
 [update.modrinth]

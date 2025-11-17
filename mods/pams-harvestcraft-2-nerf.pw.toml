@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TxGSZzwr/versions/mttKDKFq/hc2nerf-forge-1.20.1-1.1.2.jar"
-hash-format = "sha512"
-hash = "2ed7fdbc0012057bb795a1e5d71a1e0dfaefee7eae8c4bb48b3da520dc7ebc5cd12b2dd8fb24ab92c4375431f6c0fed0776031f2463f15d3ecb2718775be82f9"
+hash-format = "sha256"
+hash = "ecb8f19fa648ed8605ea4f89cd31f1ea134432a583ab90808035e95d68564506"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "pamhc2foodextended-1.20.4-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5939df90ec025f90e502d6e735081103860bbd0f"
+hash-format = "sha256"
+hash = "3cead8bebf7bf4b0d690ee3887da58a1941c92d197826be1f54bbae942e408bd"
 mode = "metadata:curseforge"
 
 [update]
