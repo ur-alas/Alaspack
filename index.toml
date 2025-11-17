@@ -30,11 +30,19 @@ hash = "76470005ebfc9e5beeb8e922c5b5516ae12132742b17a7d07ab5540299e08198"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "8e3065db9b632bc977e7a946c6e84b43ea1243b01837626fcf08e9372cd4865b"
+hash = "5d3af76f1e9c0335cd3ddc5389e58b5280e9a1ba24eb82277a54f324c78e4293"
+
+[[files]]
+file = "kubejs/server_scripts/removeRecipes.js"
+hash = "8aef53d06528fab70d44ab7eae45fe767ba78073512bbd1a4771668f4a11691d"
+
+[[files]]
+file = "kubejs/server_scripts/rifleRecipes.js"
+hash = "e2ec8875fd67f0e355830be5346357b808619c68279c24405478753a4ea57226"
 
 [[files]]
 file = "kubejs/startup_scripts/customItems.js"
-hash = "0833922feb6ef57dfc9d6b79e891dbacc82449059fded03e9a1fcf87bc6b028b"
+hash = "ea5916585a81213c59d5ac703ae678371c3a4aab0b13381cd199c4470162af6f"
 
 [[files]]
 file = "mods/aether-enhanced-extinguishing.pw.toml"
@@ -92,18 +100,8 @@ hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
 metafile = true
 
 [[files]]
-file = "mods/cb-multipart.pw.toml"
-hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
-metafile = true
-
-[[files]]
-file = "mods/codechicken-lib.pw.toml"
-hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
 metafile = true
 
 [[files]]
@@ -134,6 +132,16 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "408ce5619020064fc084d150d331edc654bbf1749bbd289e19f050a0df51f1c8"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "044a3e256511704ee2c308481dd6691550384d64c06e060fb52683c59ec6fc09"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "255864fc7aa8e28619e5ddbf9094623bfcc9d6caa260bc0cd3d32b39d45a532f"
 metafile = true
 
 [[files]]
@@ -379,41 +387,6 @@ metafile = true
 [[files]]
 file = "mods/plonk.pw.toml"
 hash = "4f5853145de45ad21f44ff07f68337561561b9e59aa7bda3d5447f54fb9551e6"
-metafile = true
-
-[[files]]
-file = "mods/project-red-core.pw.toml"
-hash = "5cbc12354a9183ff5413ce4db81b28014049207f2cc815050776b295ab5ce404"
-metafile = true
-
-[[files]]
-file = "mods/project-red-expansion.pw.toml"
-hash = "004548c84d0235b0c547bf6fa79c308c9694caf3dc03faa39a5f0d662c97dc60"
-metafile = true
-
-[[files]]
-file = "mods/project-red-exploration.pw.toml"
-hash = "aca496b9d88e2a964ff830f16fec7fb9358e56e0ad4115bb404c4ca8fab20b51"
-metafile = true
-
-[[files]]
-file = "mods/project-red-fabrication.pw.toml"
-hash = "9b0038008e5fa886b2df85cdba9ef7b371ef08dea77cea2113947d035358b23d"
-metafile = true
-
-[[files]]
-file = "mods/project-red-illumination.pw.toml"
-hash = "33c719d40f4921fa804301d078be166ee3d4a7bd08c9c1281634062b8718b476"
-metafile = true
-
-[[files]]
-file = "mods/project-red-integration.pw.toml"
-hash = "8d58a3e519dfb00b7e494d3aaecb005f549b2491495507013fc5b309b49cd0ea"
-metafile = true
-
-[[files]]
-file = "mods/project-red-transmission.pw.toml"
-hash = "563f167ca45d026339e32310623fdf2daefd89c258936e32b566d2f46c404617"
 metafile = true
 
 [[files]]
