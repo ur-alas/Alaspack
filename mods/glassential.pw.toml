@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kVa5y52B/versions/tnJjZ2uG/glassential-forge-1.20.1-2.0.0.jar"
-hash-format = "sha512"
-hash = "dd64f3a1cea37f1a856e2ca2180b346406a8fe11f28d215de5bc2b6c095290606ecb78fb99850efc57ec2a26ed008d8fd43106b52fe8fdbd8b7a3c9cd7740d48"
+hash-format = "sha256"
+hash = "3ebaccbde37eb1b22d5579344dbba609475379004477a754561b3bdad8862aad"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/T38eAZQC/versions/5vppyenb/kubejs-create-forge-2001.3.0-build.8.jar"
-hash-format = "sha512"
-hash = "1c6fa2b3dc52683bdf124ebfc507ad5adb5f1ceb147181466be4e495bc6eab1411976911477df538369ff2529607cb73bf3b4a05a8ed2f24804f4891d7635981"
+hash-format = "sha256"
+hash = "7ed3229677a98159badd9250f8e9555b5e8f7f7b55981f1a99b11e30574bafd4"
 
 [update]
 [update.modrinth]

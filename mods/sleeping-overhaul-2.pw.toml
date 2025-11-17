@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EghRExXx/versions/cTEHUHU6/SleepingOverhaul-2.1.0-Forge-1.20.1.jar"
-hash-format = "sha512"
-hash = "6150326b2f32ac5457f8b38c8e4194a13aa0e7a980c6a70f1f6c1842a8939fc49346c57be9b9ed74c34c499f3c475b40431c90f95628fa30b7b7099042ed2de1"
+hash-format = "sha256"
+hash = "166dcc8afa70517c3b604086c11fb35e206a0265889ed324449cf577ab719001"
 
 [update]
 [update.modrinth]

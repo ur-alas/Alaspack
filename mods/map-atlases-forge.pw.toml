@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4hwXMFif/versions/9Q9Ec6TM/map_atlases-1.20-6.0.17.jar"
-hash-format = "sha512"
-hash = "1229057eb163f02ea45720192e8a6377d311fd6d80ee83407fe5b90ae62e73f67807bbce79e6fd169e5f854329a50871cce8af7aee10242de922be5d73484eb1"
+hash-format = "sha256"
+hash = "1ac07f5138ea65c0e9a0fcda7bfd7d805fbd69875fe0197283ead65ed60bf690"
 
 [update]
 [update.modrinth]

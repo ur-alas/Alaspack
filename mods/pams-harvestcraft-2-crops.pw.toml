@@ -3,8 +3,8 @@ filename = "pamhc2crops-1.20-1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1b2eb3198570be89edce532bc76c6471af3529f3"
+hash-format = "sha256"
+hash = "81f743457e1cdd9a3061e23be094920562fd1c57cf29e78cf77a71c1f27da4f0"
 mode = "metadata:curseforge"
 
 [update]

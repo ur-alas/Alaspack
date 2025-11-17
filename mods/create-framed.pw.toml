@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/15fFZ3f4/versions/Xz8wY6gC/createframed-1.20.1-1.6.5.jar"
-hash-format = "sha512"
-hash = "8a5619c60d7db6f87195c473f5910fbca1ca89f9ad34b2346fef708df905b16e0134f4baff46452aa35b9203fcee60631102ec36257ad84896444234b7bc0cce"
+hash-format = "sha256"
+hash = "f995e865c49a9c75c617439ecd52177efdcc3bbc12d9ba34bd794021e7d6eab0"
 
 [update]
 [update.modrinth]
