@@ -33,20 +33,28 @@ file = "kubejs/config/probe-settings.json"
 hash = "76470005ebfc9e5beeb8e922c5b5516ae12132742b17a7d07ab5540299e08198"
 
 [[files]]
+file = "kubejs/server_scripts/centrifugeToCentrifuge.js"
+hash = "c6c79846567a2763bb4b936cc1fca6f2f98cf1660f348a4addd94076419c43b3"
+
+[[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "0399712328ea294fb19cfd29b9a1c839a3aa529b3aa72d873ab11d95704d2697"
+hash = "5d3af76f1e9c0335cd3ddc5389e58b5280e9a1ba24eb82277a54f324c78e4293"
 
 [[files]]
 file = "kubejs/server_scripts/removeRecipes.js"
-hash = "8aef53d06528fab70d44ab7eae45fe767ba78073512bbd1a4771668f4a11691d"
+hash = "5d2600b47a40f57876031de7f5506df3bf0e472d79c04d1dc0905b22f8be3ea4"
 
 [[files]]
 file = "kubejs/server_scripts/rifleRecipes.js"
 hash = "e2ec8875fd67f0e355830be5346357b808619c68279c24405478753a4ea57226"
 
 [[files]]
+file = "kubejs/server_scripts/yttrVoidArmor.js"
+hash = "3f9d6161b40201f559920412936d945009e449dbacad42eb997a437c22cd45ef"
+
+[[files]]
 file = "kubejs/startup_scripts/customItems.js"
-hash = "ae942bf70e592f5fcc93c1cb0754305148c34e0b5c4b42fe7c033651031bae5f"
+hash = "ea5916585a81213c59d5ac703ae678371c3a4aab0b13381cd199c4470162af6f"
 
 [[files]]
 file = "mods/aether-enhanced-extinguishing.pw.toml"
@@ -109,6 +117,11 @@ hash = "2e96f1be52d41fd238bed3b1bb76f031f2f61642a1645b830222b9dd41db44f1"
 metafile = true
 
 [[files]]
+file = "mods/complicated-bees.pw.toml"
+hash = "7cae3a150071b09f507e47657b4aa4203a871a95a0d4dbd3256ba8817bc58767"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "d310976d135a61460de49815fdb348ecf722906b640d48f316a3e8ed29416231"
 metafile = true
@@ -146,6 +159,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "5391ac307bbc73edb72e7eb11495af96e327eff1c02ff67d2ebbe615ca6766d7"
+metafile = true
+
+[[files]]
+file = "mods/create-vintage-improvements.pw.toml"
+hash = "b162f7efb710763b3e8518f0c20f1e655795bc41570731a6e336baed41ec2105"
 metafile = true
 
 [[files]]
@@ -441,6 +459,11 @@ metafile = true
 [[files]]
 file = "mods/toastbegone.pw.toml"
 hash = "aa3a59666a1fb592e12f1da031762d32fdef7e4dd5cee39a8213b6c4c05f13b4"
+metafile = true
+
+[[files]]
+file = "mods/vintage-kubejs.pw.toml"
+hash = "f7952d6e073f1e20a9c322fd5b4adce8366ad201e82dc5649e31e02f640dc7f9"
 metafile = true
 
 [[files]]
